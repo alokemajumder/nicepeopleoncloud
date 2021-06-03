@@ -1,2 +1,2 @@
 # nicepeopleoncloud
-npoc.club website
+npoc.club clubhouse website
